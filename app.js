@@ -1,2 +1,2 @@
 var top = document.getElementById('top');
-document.log(top.text);
+console.log(top.text);
