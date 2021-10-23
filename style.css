@@ -13,12 +13,10 @@ body{
     background-image: radial-gradient(lightgreen,green);
     align-items: center;
     justify-content: center;
-
 }
 
 .container-bodaum{
     display: flex;
-    /* flex-direction: column; */
     width: auto;
     height: 250px;
     background-color: blue;
